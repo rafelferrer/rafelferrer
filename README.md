@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/rafelferrer">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Bienvenido+a+mi+perfil;Soy+Rafa+Ferrer+Gomá;Desarrollador+y+entusiasta+de+la+IA;Apasionado+por+el+pixel+art+y+los+videojuegos;Siempre+en+busca+de+nuevos+retos">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Bienvenido+a+mi+perfil;Soy+Rafel+Ferrer+Gomá;Desarrollador+y+entusiasta+de+la+ciberseguridad;Apasionado+por+los+videojuegos;Siempre+en+busca+de+nuevos+retos">
   </a>
 </p>
 
